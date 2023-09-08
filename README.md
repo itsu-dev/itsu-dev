@@ -5,7 +5,7 @@
 - [株式会社スプーキーズ](https://www.spookies.co.jp/) フロントエンドエンジニア（2023/3〜）
 
 ### past
-- 株式会社SmartHR インターンシップ（2023/9/4〜7）
+- [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
 - ヤフー株式会社 インターンシップ「[Yahoo! JAPANトップページ
 新規コンテンツをチームで開発](https://about.yahoo.co.jp/hr/internship/1002/)」（2023/8/21〜25）
 - 筑波大学 総合学域群第2類（2021/4〜2022/3）
