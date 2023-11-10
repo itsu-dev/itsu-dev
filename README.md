@@ -21,6 +21,7 @@
 ## stdouts
 ### works
 - [marken - The markdown supported thread-like memo application](https://boke.itsu.dev/marken/)
+- [第49回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://sohosai.com/map)
 - [第48回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://qiita.com/chururi/items/93ab81aad98fd8456e15)
   - 関連記事：[筑波大学学園祭 Web サイト構築の舞台裏](https://zenn.dev/inaniwaudon/articles/e4d6d326c4c18b)
 - [modern-manaba](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli?hl=ja)
