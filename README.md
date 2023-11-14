@@ -38,6 +38,7 @@
 - [Twitter](https://twitter.com/chururi_)
 - [GitHub](https://github.com/itsu-dev)
 - [Qiita](https://qiita.com/chururi)
+- [Zenn](https://zenn.dev/itsu_dev)
 - [note](https://note.com/chururi___)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
