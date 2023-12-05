@@ -13,6 +13,8 @@
   - 情報メディアシステム局（jsys22）（2022/1〜2023/3）
 
 ## announcements
+- [UNTIL.LT #0x03 / 学生LT共催（2023年12月3日（日））](https://student-lt.connpass.com/event/301100/)
+  - [おえかきアプリを支える技術](https://speakerdeck.com/chururi/oekakiahuriwozhi-eruji-shu)
 - [UNTIL.LT #0x02（2023年6月1日（木））](https://until-tsukuba.github.io/events/2023/until-lt0x02/)
   - [あなたとKotlin, 今すぐはじめよう](https://speakerdeck.com/chururi/anatatokotlin-jin-suguhazimeyou-until-dot-lt-number-0x02)
 - 情報処理学会 第143回プログラミング研究発表会（2023年3月22日（水）～23日（木））
@@ -20,6 +22,7 @@
 
 ## stdouts
 ### works
+- [おえかきアプリ](https://itsu.dev/oekaki)
 - [marken - The markdown supported thread-like memo application](https://boke.itsu.dev/marken/)
 - [第49回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://sohosai.com/map)
 - [第48回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://qiita.com/chururi/items/93ab81aad98fd8456e15)
