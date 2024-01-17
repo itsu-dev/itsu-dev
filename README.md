@@ -18,7 +18,7 @@
 - [UNTIL.LT #0x02（2023年6月1日（木））](https://until-tsukuba.github.io/events/2023/until-lt0x02/)
   - [あなたとKotlin, 今すぐはじめよう](https://speakerdeck.com/chururi/anatatokotlin-jin-suguhazimeyou-until-dot-lt-number-0x02)
 - 情報処理学会 第143回プログラミング研究発表会（2023年3月22日（水）～23日（木））
-  - 野牧 樹, 中井 央 [「Web開発フレームワークとしてのWebブラウザ上で動作するJVM」](https://sigpro.ipsj.or.jp/pro2022-5/program/)
+  - 中井 央, 野牧 樹 [「Web開発フレームワークとしてのWebブラウザ上で動作するJVM」](https://sigpro.ipsj.or.jp/pro2022-5/program/)
 
 ## stdouts
 ### works
