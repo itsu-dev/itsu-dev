@@ -25,6 +25,7 @@
 - [運転ゲーム](https://race.itsu.dev)
 - [おしりふき](https://itsu.dev/osirifuki)
 - [おえかきアプリ](https://itsu.dev/oekaki)
+- [JVM on TypeScript](https://boke.itsu.dev/ChuruVM/index.html)
 - [marken - The markdown supported thread-like memo application](https://boke.itsu.dev/marken/)
 - [第49回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://sohosai.com/map)
 - [第48回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://qiita.com/chururi/items/93ab81aad98fd8456e15)
