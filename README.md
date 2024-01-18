@@ -23,6 +23,7 @@
 ## stdouts
 ### works
 - [運転ゲーム](https://race.itsu.dev)
+- [おしりふき](https://itsu.dev/osirifuki)
 - [おえかきアプリ](https://itsu.dev/oekaki)
 - [marken - The markdown supported thread-like memo application](https://boke.itsu.dev/marken/)
 - [第49回 筑波大学学園祭 雙峰祭 公式Web（学内マップ）](https://sohosai.com/map)
