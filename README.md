@@ -2,7 +2,7 @@
 - 筑波大学 情報メディア創成学類 B3（2022/4〜）
 - 筑波大学 全学学類・専門学群・総合学域群代表者会議（全代会）
   - 情報処理推進特別委員会（IPC）（2023/5〜）
-- [株式会社スプーキーズ](https://www.spookies.co.jp/) フロントエンドエンジニア（2023/3〜）
+- [株式会社スプーキーズ](https://www.spookies.co.jp/) （2023/3〜）
 
 ### past
 - [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
