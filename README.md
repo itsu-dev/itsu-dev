@@ -14,7 +14,9 @@
 - 応用情報技術者（2023 秋季）
 
 ## announcements
-- [UNTIL.LT #0x03 / 学生LT共催（2023年12月3日（日））](https://student-lt.connpass.com/event/301100/)
+- [UNTIL.LT #0x04（2024年5月11日（土））](https://until-tsukuba.github.io/events/2024/until-lt0x04/)
+  - [入門：JVM 〜5 分で完全に理解する JVM の仕組み〜](https://speakerdeck.com/chururi/ru-men-jvm-5-fen-dewan-quan-nili-jie-suru-jvm-noshi-zu-mi)
+- [UNTIL.LT #0x03 / 学生LT共催（2023年12月3日（日））](https://until-tsukuba.github.io/events/2023/until-lt0x03/)
   - [おえかきアプリを支える技術](https://speakerdeck.com/chururi/oekakiahuriwozhi-eruji-shu)
 - [UNTIL.LT #0x02（2023年6月1日（木））](https://until-tsukuba.github.io/events/2023/until-lt0x02/)
   - [あなたとKotlin, 今すぐはじめよう](https://speakerdeck.com/chururi/anatatokotlin-jin-suguhazimeyou-until-dot-lt-number-0x02)
