@@ -14,6 +14,9 @@
 - 応用情報技術者（2023 秋季）
 
 ## announcements
+- [第 57 回情報科学若手の会（2024年9月14〜16日）](https://wakate.org/2024/08/13/57th-general/)
+  - [JVM は Web フロントエンド開発の夢を見るか？（ショート発表）](https://speakerdeck.com/chururi/jvm-ha-web-hurontoendokai-fa-nomeng-wojian-ruka)
+  - [絵文字を実行する（LT）](https://speakerdeck.com/chururi/hui-wen-zi-woshi-xing-suru)
 - [UNTIL.LT #0x04（2024年5月11日（土））](https://until-tsukuba.github.io/events/2024/until-lt0x04/)
   - [入門：JVM 〜5 分で完全に理解する JVM の仕組み〜](https://speakerdeck.com/chururi/ru-men-jvm-5-fen-dewan-quan-nili-jie-suru-jvm-noshi-zu-mi)
 - [UNTIL.LT #0x03 / 学生LT共催（2023年12月3日（日））](https://until-tsukuba.github.io/events/2023/until-lt0x03/)
