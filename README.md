@@ -1,3 +1,5 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## affiliations
 - 筑波大学 情報メディア創成学類 B3（2022/4〜）
 - 筑波大学 全学学類・専門学群・総合学域群代表者会議（全代会）
@@ -14,6 +16,8 @@
 - 応用情報技術者（2023 秋季）
 
 ## announcements
+- [第27回プログラミングおよびプログラミング言語ワークショップ PPL2025](https://jssst-ppl.org/workshop/2025/)
+  - [ブラウザで実行される Web アプリケーションのための JVM（口頭発表 / ポスター）](https://jssst-ppl.org/workshop/2025/accepted.html)
 - [第 57 回情報科学若手の会（2024年9月14〜16日）](https://wakate.org/2024/08/13/57th-general/)
   - [JVM は Web フロントエンド開発の夢を見るか？（ショート発表）](https://speakerdeck.com/chururi/jvm-ha-web-hurontoendokai-fa-nomeng-wojian-ruka)
   - [絵文字を実行する（LT）](https://speakerdeck.com/chururi/hui-wen-zi-woshi-xing-suru)
@@ -28,6 +32,8 @@
 
 ## stdouts
 ### works
+- [bJVM - An JVM running on WebBrowsers; Writing Web Frontends with JVM Langs](https://github.com/Tsukuba-Programming-Lab/BJVM)
+- [絵文字プログラミング言語　emojin](https://emojin.itsu.dev/)
 - [運転ゲーム](https://race.itsu.dev)
 - [おしりふき](https://itsu.dev/osirifuki)
 - [おえかきアプリ](https://itsu.dev/oekaki)
@@ -40,11 +46,6 @@
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/)
 - MiRm (The online server rental service for Minecraft)
 
-### articles
-- [遭難者をこれ以上出さないために学内マップを実装した話 - Qiita](https://qiita.com/chururi/items/93ab81aad98fd8456e15)
-- [エクストリーム・宅通 ～栃木からの宅通奮闘記～ - note](https://note.com/chururi___/n/n9aebe31764fe)
-  - つくばで（自）宅通（学）は避けよう！
-
 ## links
 - [HP](https;//boke.itsu.dev/)
 - [Twitter](https://twitter.com/chururi_)
@@ -52,5 +53,3 @@
 - [Qiita](https://qiita.com/chururi)
 - [Zenn](https://zenn.dev/itsu_dev)
 - [note](https://note.com/chururi___)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
