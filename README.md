@@ -1,12 +1,16 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## affiliations
-- 筑波大学 情報メディア創成学類 B3（2022/4〜）
+- 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム M1（2025/4〜）
 - 筑波大学 全学学類・専門学群・総合学域群代表者会議（全代会）
-  - 情報処理推進特別委員会（IPC）（2023/5〜）
+  - 情報処理推進特別委員会（IPC）（2023/5〜） 
+- TA
+  - GC12701 プログラミング
+  - GC41103, GC41203 COJT ソフトウェアコース（情報メディア実験 A, B）
 - [株式会社スプーキーズ](https://www.spookies.co.jp/) （2023/3〜）
 
 ### past
+- 筑波大学 情報学群 情報メディア創成学類（2022/4〜2025/3）
 - [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
 - ヤフー株式会社 インターンシップ「[Yahoo! JAPANトップページ
 新規コンテンツをチームで開発](https://about.yahoo.co.jp/hr/internship/1002/)」（2023/8/21〜25）
@@ -32,7 +36,7 @@
 
 ## stdouts
 ### works
-- [bJVM - An JVM running on WebBrowsers; Writing Web Frontends with JVM Langs](https://github.com/Tsukuba-Programming-Lab/BJVM)
+- [bJVM - A JVM running on WebBrowsers; Writing Web Frontends with JVM Langs](https://github.com/Tsukuba-Programming-Lab/BJVM)
 - [絵文字プログラミング言語　emojin](https://emojin.itsu.dev/)
 - [運転ゲーム](https://race.itsu.dev)
 - [おしりふき](https://itsu.dev/osirifuki)
