@@ -11,6 +11,8 @@
 - [株式会社スプーキーズ](https://www.spookies.co.jp/) （2023/3〜）
 
 ### 過去
+- [RECRUIT INTERNSHIP for Engineers 2025](https://www.recruit.co.jp/employment/students/internship/erintern/?utm_source=msps&utm_medium=media&utm_campaign=2025eris)
+  - フロントエンドエンジニア
 - 筑波大学 情報学群 情報メディア創成学類（2022/4〜2025/3）
 - [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
 - ヤフー株式会社 インターンシップ「[Yahoo! JAPANトップページ
@@ -26,6 +28,10 @@
 - 応用情報技術者（2023 秋季）
 
 ## 発表等
+- [日本ソフトウェア科学会第 42 回大会 JSSST2025](https://jssst2025.wordpress.com/program/)
+  - 「Web フロントエンド開発のためのブラウザ上で動く言語ランタイムの一実装方式」（口頭発表，ポスター）
+- [Nextbeat Tech Bar： Java/JVM祭り](https://nextbeat.connpass.com/event/350800/)
+  - [「JVM 言語で Web フロントエンドを開発する！」](https://slides.itsu.dev/slide/49ee7a26-35f9-4ee6-b225-e6c7742e869c)
 - [第27回プログラミングおよびプログラミング言語ワークショップ PPL2025](https://jssst-ppl.org/workshop/2025/)
   - [ブラウザで実行される Web アプリケーションのための JVM（口頭発表 / ポスター）](https://jssst-ppl.org/workshop/2025/accepted.html)
 - [第 57 回情報科学若手の会（2024年9月14〜16日）](https://wakate.org/2024/08/13/57th-general/)
