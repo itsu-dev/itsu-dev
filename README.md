@@ -36,6 +36,8 @@
 - 応用情報技術者（2023 秋季）
 
 ## 発表等
+- [第28回プログラミングおよびプログラミング言語ワークショップ PPL2026](https://jssst-ppl.org/workshop/2026/)
+  - [WebAssembly 上で動作する言語ランタイムにおけるヒープ外部化アーキテクチャの検討（ポスター）](https://jssst-ppl.org/workshop/2026/accepted.html)
 - [日本ソフトウェア科学会第 42 回大会 JSSST2025](https://jssst2025.wordpress.com/program/)
   - 「Web フロントエンド開発のためのブラウザ上で動く言語ランタイムの一実装方式」（口頭発表，ポスター）
 - [Nextbeat Tech Bar： Java/JVM祭り](https://nextbeat.connpass.com/event/350800/)
