@@ -2,24 +2,32 @@
 
 ## 所属
 ### 現在
-- 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム M1（2025/4〜）
-- 筑波大学 全学学類・専門学群・総合学域群代表者会議（全代会）
-  - 情報処理推進特別委員会（IPC）（2023/5〜） 
+- 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム M2（2025/4〜）
 - TA
+  - GC12104 コンピュータリテラシー
   - GC12701 プログラミング
+  - GB12017 論理回路演習
   - GC41103, GC41203 COJT ソフトウェアコース（情報メディア実験 A, B）
 - [株式会社スプーキーズ](https://www.spookies.co.jp/) （2023/3〜）
 
 ### 過去
-- [RECRUIT INTERNSHIP for Engineers 2025](https://www.recruit.co.jp/employment/students/internship/erintern/?utm_source=msps&utm_medium=media&utm_campaign=2025eris)
-  - フロントエンドエンジニア
+
+#### 大学
 - 筑波大学 情報学群 情報メディア創成学類（2022/4〜2025/3）
-- [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
-- ヤフー株式会社 インターンシップ「[Yahoo! JAPANトップページ
-新規コンテンツをチームで開発](https://about.yahoo.co.jp/hr/internship/1002/)」（2023/8/21〜25）
 - 筑波大学 総合学域群第2類（2021/4〜2022/3）
 - 筑波大学 学園祭実行委員会
   - 情報メディアシステム局（jsys22）（2022/1〜2023/3）
+- 筑波大学 全学学類・専門学群・総合学域群代表者会議（全代会）
+  - 情報処理推進特別委員会（IPC）（2023/5〜2026/3） 
+- TA（2025 年度）
+  - GC41103, GC41203 COJT ソフトウェアコース（情報メディア実験 A, B）
+ 
+#### インターンなど
+
+- [RECRUIT INTERNSHIP for Engineers 2025](https://www.recruit.co.jp/employment/students/internship/erintern/?utm_source=msps&utm_medium=media&utm_campaign=2025eris)
+- [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
+- ヤフー株式会社 インターンシップ「[Yahoo! JAPANトップページ
+新規コンテンツをチームで開発](https://about.yahoo.co.jp/hr/internship/1002/)」（2023/8/21〜25）
  
 ## 表彰，資格など
 - 学士（情報メディア科学）（2025/3）
