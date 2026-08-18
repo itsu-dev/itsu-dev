@@ -55,6 +55,7 @@
   - 中井 央, 野牧 樹 [「Web開発フレームワークとしてのWebブラウザ上で動作するJVM」](https://sigpro.ipsj.or.jp/pro2022-5/program/)
 
 ## 開発など
+- [発表スライド等置き場](https://slides.itsu.dev/)
 - [osaru - 学園祭屋台モバイルオーダー](https://osaru.itsu.dev)
 - [bJVM - A JVM running on WebBrowsers; Writing Web Frontends with JVM Langs](https://github.com/Tsukuba-Programming-Lab/BJVM)
 - [絵文字プログラミング言語　emojin](https://emojin.itsu.dev/)
