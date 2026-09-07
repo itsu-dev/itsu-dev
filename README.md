@@ -5,7 +5,7 @@ Be interested in Programming Language Runtimes, Web Technologies.
 ## 所属
 
 - 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム M2（2025/4〜）
-- Webkit（JavaScriptCore）Contributor
+- [Webkit（JavaScriptCore）](https://github.com/WebKit/WebKit) Contributor
 
 ### 過去
 
