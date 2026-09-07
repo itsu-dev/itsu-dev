@@ -1,13 +1,16 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+Be interested in Programming Language Runtimes, Web Technologies.
+
 ## 所属
-### 現在
+
 - 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム M2（2025/4〜）
 - Webkit（JavaScriptCore）Contributor
 
 ### 過去
 
 #### 大学
+
 - 筑波大学
   - 情報学群 情報メディア創成学類（2022/4〜2025/3）
   - 総合学域群 第2類（2021/4〜2022/3）
@@ -15,7 +18,7 @@
   - 情報メディアシステム局（jsys22）（2022/1〜2023/3）
 - 筑波大学 全学学類・専門学群・総合学域群代表者会議（全代会）
   - 情報処理推進特別委員会（IPC）（2023/5〜2026/3） 
-- TA（2025 年度）
+- TA（2025-26 年度）
   - `GC41103, GC41203` COJT ソフトウェアコース（情報メディア実験 A, B），`GB12017` 論理回路演習，`GC12104` コンピュータリテラシー，`GC12701` プログラミング
  
 #### インターンなど
@@ -26,12 +29,14 @@
 新規コンテンツをチームで開発](https://about.yahoo.co.jp/hr/internship/1002/)」（2023/8/21〜25）
  
 ## 表彰，資格など
+
 - 学士（情報メディア科学）（2025/3）
 - 筑波大学茗渓会賞（2025/3）
 - 筑波大学情報学群 情報メディア創成学類長表彰（2025/3）
 - 応用情報技術者（2023 秋季）
 
 ## 発表等
+
 - [第28回プログラミングおよびプログラミング言語ワークショップ PPL2026](https://jssst-ppl.org/workshop/2026/)
   - [WebAssembly 上で動作する言語ランタイムにおけるヒープ外部化アーキテクチャの検討（ポスター）](https://jssst-ppl.org/workshop/2026/accepted.html)
 - [日本ソフトウェア科学会第 42 回大会 JSSST2025](https://jssst2025.wordpress.com/program/)
@@ -53,6 +58,8 @@
   - 中井 央, 野牧 樹 [「Web開発フレームワークとしてのWebブラウザ上で動作するJVM」](https://sigpro.ipsj.or.jp/pro2022-5/program/)
 
 ## 開発など
+
+- [積読置き場](https://bookshelf.itsu.dev/)
 - [発表スライド等置き場](https://slides.itsu.dev/)
 - [osaru - 学園祭屋台モバイルオーダー](https://osaru.itsu.dev)
 - [bJVM - A JVM running on WebBrowsers; Writing Web Frontends with JVM Langs](https://github.com/Tsukuba-Programming-Lab/BJVM)
@@ -70,6 +77,7 @@
 - MiRm (The online server rental service for Minecraft)
 
 ## 各種リンク
+
 - [HP](https;//boke.itsu.dev/)
 - [Twitter](https://twitter.com/chururi_)
 - [GitHub](https://github.com/itsu-dev)
