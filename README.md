@@ -27,26 +27,33 @@ Be interested in Programming Language Runtimes, Web Technologies.
 - [株式会社SmartHR インターンシップ](https://newgrads.smarthr.co.jp/product-engineer)（2023/9/4〜7）
 - ヤフー株式会社 インターンシップ「[Yahoo! JAPANトップページ
 新規コンテンツをチームで開発](https://about.yahoo.co.jp/hr/internship/1002/)」（2023/8/21〜25）
- 
-## 表彰，資格など
 
-- 学士（情報メディア科学）（2025/3）
-- 筑波大学茗渓会賞（2025/3）
-- 筑波大学情報学群 情報メディア創成学類長表彰（2025/3）
-- 応用情報技術者（2023 秋季）
+## 発表・執筆
 
-## 発表等
+### 学会
 
 - [CANDAR'26](https://is-candar.org/program)
-  - GrowerMM: A Library for Copyless, Handle-Based Object Sharing across the FFI Boundary of Wasm-Based MPLRs in Web Browsers, Itsuru Nomaki, Hisashi Nakai and Shuji Sannomiya（International Full paper, peer-reviewed）
+  - GrowerMM: A Library for Copyless, Handle-Based Object Sharing across the FFI Boundary of Wasm-Based MPLRs in Web Browsers, Itsuru Nomaki, Hisashi Nakai and Shuji Sannomiya（International full paper, peer-reviewed）
 - [第28回プログラミングおよびプログラミング言語ワークショップ PPL2026](https://jssst-ppl.org/workshop/2026/)
   - [WebAssembly 上で動作する言語ランタイムにおけるヒープ外部化アーキテクチャの検討（ポスター）](https://jssst-ppl.org/workshop/2026/accepted.html)
 - [日本ソフトウェア科学会第 42 回大会 JSSST2025](https://jssst2025.wordpress.com/program/)
   - 「Web フロントエンド開発のためのブラウザ上で動く言語ランタイムの一実装方式」（口頭発表，ポスター）
-- [Nextbeat Tech Bar： Java/JVM祭り](https://nextbeat.connpass.com/event/350800/)
-  - [「JVM 言語で Web フロントエンドを開発する！」](https://slides.itsu.dev/slide/49ee7a26-35f9-4ee6-b225-e6c7742e869c)
 - [第27回プログラミングおよびプログラミング言語ワークショップ PPL2025](https://jssst-ppl.org/workshop/2025/)
   - [ブラウザで実行される Web アプリケーションのための JVM（口頭発表 / ポスター）](https://jssst-ppl.org/workshop/2025/accepted.html)
+- 情報処理学会 第143回プログラミング研究発表会（2023年3月22日（水）～23日（木））
+  - 中井 央, 野牧 樹 [「Web開発フレームワークとしてのWebブラウザ上で動作するJVM」](https://sigpro.ipsj.or.jp/pro2022-5/program/)
+
+### 執筆・寄稿
+
+- [驚額の殿堂 技術同人誌 『フランクフルト』 Vol.2](https://kyogaku-dendo.booth.pm/items/9039924)
+  - これまで JavaScriptCore に送ったパッチを語る
+- [驚額の殿堂 技術同人誌 『フランクフルト』 Vol.1](https://kyogaku-dendo.booth.pm/items/7735616)
+  - 自作 JVM ことはじめ
+ 
+### LT・その他
+
+- [Nextbeat Tech Bar： Java/JVM祭り](https://nextbeat.connpass.com/event/350800/)
+  - [「JVM 言語で Web フロントエンドを開発する！」](https://slides.itsu.dev/slide/49ee7a26-35f9-4ee6-b225-e6c7742e869c)
 - [第 57 回情報科学若手の会（2024年9月14〜16日）](https://wakate.org/2024/08/13/57th-general/)
   - [JVM は Web フロントエンド開発の夢を見るか？（ショート発表）](https://speakerdeck.com/chururi/jvm-ha-web-hurontoendokai-fa-nomeng-wojian-ruka)
   - [絵文字を実行する（LT）](https://speakerdeck.com/chururi/hui-wen-zi-woshi-xing-suru)
@@ -56,10 +63,8 @@ Be interested in Programming Language Runtimes, Web Technologies.
   - [おえかきアプリを支える技術](https://speakerdeck.com/chururi/oekakiahuriwozhi-eruji-shu)
 - [UNTIL.LT #0x02（2023年6月1日（木））](https://until-tsukuba.github.io/events/2023/until-lt0x02/)
   - [あなたとKotlin, 今すぐはじめよう](https://speakerdeck.com/chururi/anatatokotlin-jin-suguhazimeyou-until-dot-lt-number-0x02)
-- 情報処理学会 第143回プログラミング研究発表会（2023年3月22日（水）～23日（木））
-  - 中井 央, 野牧 樹 [「Web開発フレームワークとしてのWebブラウザ上で動作するJVM」](https://sigpro.ipsj.or.jp/pro2022-5/program/)
 
-## 開発など
+ ## 開発など
 
 - [積読置き場](https://bookshelf.itsu.dev/)
 - [発表スライド等置き場](https://slides.itsu.dev/)
@@ -77,6 +82,13 @@ Be interested in Programming Language Runtimes, Web Technologies.
 - [modern-manaba](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli?hl=ja)
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/)
 - MiRm (The online server rental service for Minecraft)
+
+## 表彰，資格など
+
+- 学士（情報メディア科学）（2025/3）
+- 筑波大学茗渓会賞（2025/3）
+- 筑波大学情報学群 情報メディア創成学類長表彰（2025/3）
+- 応用情報技術者（2023 秋季）
 
 ## 各種リンク
 
