@@ -37,6 +37,8 @@ Be interested in Programming Language Runtimes, Web Technologies.
 
 ## 発表等
 
+- [CANDAR'26](https://is-candar.org/program)
+  - GrowerMM: A Library for Copyless, Handle-Based Object Sharing across the FFI Boundary of Wasm-Based MPLRs in Web Browsers, Itsuru Nomaki, Hisashi Nakai and Shuji Sannomiya（International Full paper, peer-reviewed）
 - [第28回プログラミングおよびプログラミング言語ワークショップ PPL2026](https://jssst-ppl.org/workshop/2026/)
   - [WebAssembly 上で動作する言語ランタイムにおけるヒープ外部化アーキテクチャの検討（ポスター）](https://jssst-ppl.org/workshop/2026/accepted.html)
 - [日本ソフトウェア科学会第 42 回大会 JSSST2025](https://jssst2025.wordpress.com/program/)
